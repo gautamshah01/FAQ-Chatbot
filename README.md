@@ -3,6 +3,10 @@
 
 This project implements a chatbot using `LangChain`, `FAISS`, and `Streamlit` for an FAQ-based question-answering system, powered by a knowledge base stored in CSV format. The chatbot is designed for an EdTech platform, answering questions related to courses, tutorials, and other FAQs.
 
+![image](https://github.com/user-attachments/assets/26ace9ab-00a6-49cc-835c-2be90fc5c438)
+
+
+
 ## Features
 
 - **FAQ-based Q&A**: Users can ask questions, and the chatbot provides answers based on a pre-trained vector database built from a CSV of questions and answers.
